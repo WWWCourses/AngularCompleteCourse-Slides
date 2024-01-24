@@ -1,1 +1,3 @@
-# Angular - Complete Course at Progressbg Educational Center
+# Angular - Complete Course
+
+at Progressbg Educational Center
